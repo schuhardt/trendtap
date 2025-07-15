@@ -1,0 +1,1 @@
+export default function Terms() { return <div className='p-6'><h1>Terms of Service</h1><p>Use TrendTap responsibly...</p></div>; }

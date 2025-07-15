@@ -1,0 +1,1 @@
+export default function Privacy() { return <div className='p-6'><h1>Privacy Policy</h1><p>Your data is protected...</p></div>; }
